@@ -3,11 +3,11 @@ filename = "InventoryProfilesNext-fabric-1.18-1.3.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.1-1.3.1/InventoryProfilesNext-fabric-1.18-1.3.1.jar"
-hash-format = "sha512"
-hash = "ad10f77ff24aa2d10295c36b48deb7eb0d568e52473b67ae1b4368516e72046b094d0f7a0ece7583d612049b6cc817d9e444e60a6aabd85aa38880506f1aae52"
+url = "https://edge.forgecdn.net/files/3639/38/InventoryProfilesNext-fabric-1.18-1.3.1.jar"
+hash-format = "murmur2"
+hash = "348541025"
 
 [update]
-[update.modrinth]
-mod-id = "O7RBXm3n"
-version = "8lGLmgwW"
+[update.curseforge]
+file-id = 3639038
+project-id = 495267

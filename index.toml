@@ -26,6 +26,16 @@ hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.toml"
+hash = "4520fc3c1966dd15bedf15fb4facdbf3b80d60727962be6cdc6c5f72584eb14a"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.toml"
 hash = "6caa90ec195f3b86f0b0a7ee738fce0f4b1190894d438a6886aa6cc77a7830d1"
 metafile = true
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.toml"
 hash = "de9f0a941156d95091b39b434fe31fe76cb612eeb0592618d325835d501a4c02"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -71,6 +86,11 @@ hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+metafile = true
+
+[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.toml"
 hash = "051c09e14638dc26c9f80ceb44facb5f3f2aa2d5aa352719748c3facd10a9ab3"
 metafile = true
@@ -81,13 +101,18 @@ hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.toml"
+hash = "16460cf6b9527d4ba6c2f66e7518f60fed71cabf5833dd8152f965930f5bd139"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.toml"
 hash = "b640cbe358ce5a1da08f774b2632248f6244f88c47d0617be1523d525d99fab4"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "19b65cb4abe03a74d6a7a84145975520c1b7aa1b9b331cf48066084fe39835ac"
+hash = "1227ceed46f6d26c1557728b398af372bcc9fa9d4d7baff9ce89fbd2b5507c04"
 metafile = true
 
 [[files]]
@@ -102,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
+hash = "97f2bb8fd9b7d6daed1f50144859b2875b5c6e60edee6ed6e90e9dcd4dca83b8"
 metafile = true
 
 [[files]]
@@ -161,13 +186,18 @@ hash = "c0d52e842953a285544dc13e124ffee1cf261a1fa3fdcc19728424a466ed660a"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib-fabric.toml"
+hash = "33f3bac96d670a36f3cf8fa0edcb37a051684bc1c584356cb6fa5046599f480e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "afc78e26f2386e77df2de6bec037c14eb74f063e3551f2ab71f10ff80bc5e986"
 metafile = true
 
 [[files]]
 file = "mods/rpmtw-update-mod.toml"
-hash = "05c9d0f2506878b6174b52d869e88691e66cbe1667d21025f2c00c5b62b2e0ee"
+hash = "3de707f10cf2b2f148abe3a691ea702d726676c16f2c85ef05077f6f3e505202"
 metafile = true
 
 [[files]]
@@ -201,8 +231,8 @@ hash = "f72cbfcc9dd7079ae697512338158d3d98efd4b7ef2dfbcd9ee5f829d3efedb6"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair-play-edition.toml"
-hash = "517a15807d761059f9d48b1e1fb8b1e261bf42704deca818fa984051a17f9aed"
+file = "mods/xaeros-minimap.toml"
+hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
 metafile = true
 
 [[files]]
