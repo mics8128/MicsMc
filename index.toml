@@ -1,24 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/bobby.conf"
+file = "config/defaultoptions/extra/config/bobby.conf"
 hash = "8cdf02d0a91f738e6be34d129367f9d83f6615a824a13e93c9470bc51fd2a077"
-preserve = true
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+file = "config/defaultoptions/extra/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-preserve = true
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
+file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "65fc7fe6db7b79bc2153d7cfcc83772e60b47daf375d9ab51c8932dfc1270c41"
-preserve = true
 
 [[files]]
-file = "config/rpmtw_update_mod.toml"
+file = "config/defaultoptions/extra/config/rpmtw_update_mod.toml"
 hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
-preserve = true
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "67faa238bbe17abf1b79a0344127c4cadfdfea431bea04ac870eba3fdac5a6e9"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "c00a717ddf48bc20716bf085b668ec68c2e8690967ddd9c3881ef2c0a0794a5c"
 
 [[files]]
 file = "mods/appleskin.toml"
