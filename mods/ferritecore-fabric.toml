@@ -1,0 +1,13 @@
+name = "FerriteCore (Fabric)"
+filename = "ferritecore-4.1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3638/441/ferritecore-4.1.1-fabric.jar"
+hash-format = "murmur2"
+hash = "3206173293"
+
+[update]
+[update.curseforge]
+file-id = 3638441
+project-id = 459857

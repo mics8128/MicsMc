@@ -1,0 +1,13 @@
+name = "Just Enough Keys [JEK] [Fabric]"
+filename = "justenoughkeys-0.5.3-fabric.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3602/969/justenoughkeys-0.5.3-fabric.jar"
+hash-format = "murmur2"
+hash = "2091568562"
+
+[update]
+[update.curseforge]
+file-id = 3602969
+project-id = 495059

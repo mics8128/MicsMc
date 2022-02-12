@@ -1,0 +1,10 @@
+{
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "enable_inventory_editor_button": false
+    },
+    "AutoRefillSettings": {
+        "refill_armor": false,
+        "refill_before_tool_break": false
+    }
+}

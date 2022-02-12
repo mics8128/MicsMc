@@ -1,1 +1,215 @@
 hash-format = "sha256"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "8cdf02d0a91f738e6be34d129367f9d83f6615a824a13e93c9470bc51fd2a077"
+preserve = true
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+preserve = true
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "65fc7fe6db7b79bc2153d7cfcc83772e60b47daf375d9ab51c8932dfc1270c41"
+preserve = true
+
+[[files]]
+file = "config/rpmtw_update_mod.toml"
+hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
+preserve = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.toml"
+hash = "6caa90ec195f3b86f0b0a7ee738fce0f4b1190894d438a6886aa6cc77a7830d1"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
+metafile = true
+
+[[files]]
+file = "mods/bobby.toml"
+hash = "de9f0a941156d95091b39b434fe31fe76cb612eeb0592618d325835d501a4c02"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+hash = "ea96f09c8cc2dfd3e39bdb137393a86f5bdf02bf198f51005e1077ecd5fdc91a"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.toml"
+hash = "a543280d84b769be9d3a3d8ab1e911e72b62eab9a52896b55efeb1a387cbe9c2"
+metafile = true
+
+[[files]]
+file = "mods/default-options-fabric.toml"
+hash = "79218c2f553d60955fe2b5a9dc4957de4a2d59e10a0fe0c4e6c0395505b4e752"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "c232ccf873db67e58c35803e9b79dbd6c4d5faea9e65c07d32a60e4c11cedc6d"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "4c59a9bcff322ac2ae02d686b24e2fa2961650462f203536e3cd05a99f421a19"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
+metafile = true
+
+[[files]]
+file = "mods/feature-nbt-deadlock-be-gone.toml"
+hash = "051c09e14638dc26c9f80ceb44facb5f3f2aa2d5aa352719748c3facd10a9ab3"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.toml"
+hash = "b640cbe358ce5a1da08f774b2632248f6244f88c47d0617be1523d525d99fab4"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.toml"
+hash = "19b65cb4abe03a74d6a7a84145975520c1b7aa1b9b331cf48066084fe39835ac"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "d66fe33e59831d85fcde0e7feee237c4c56981162f5ffb645fb63c3594922f25"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-keys-fabric.toml"
+hash = "3e26d9f9d011967cc113a038c1c75e4ce5e2672e866eda8ca183dcc4ecd0bf00"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.toml"
+hash = "b7b808b79f27c2516aae12a3cea122c62be0397cc83adfddedc402509c1c7460"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "9e79362217c38d994525afc5a3b8fe9079a6f6c51d31c57f2135b64f38832816"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "af33a101b5bee2ff06a9633de4fbc70e91eae4599d2590822297ed04f9b17db9"
+metafile = true
+
+[[files]]
+file = "mods/more-chat-history.toml"
+hash = "8fcec65c73d749d008328d724906089bedb7ec37b03daefe38006e69e2399b43"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "8eceb25fbfc2e74a0f7ca9b2a6bb1eb483dc95b95a7a673a4b27eb0d28b1b4af"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.toml"
+hash = "0501b76f4eb066d9ff58194504f9e40cc57a4bcfc0e0fcae4c04a57782d50a9d"
+metafile = true
+
+[[files]]
+file = "mods/no-null-processors.toml"
+hash = "cacf5ebda915edc99213691d325e881db490b7420822bc3ae88fe1798a74a645"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "07eb6ee9b6f6310eab0ab1b1e78938b1cf4bbb5cfe26a2f5328b3acaee5a0781"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier-fabric.toml"
+hash = "c0d52e842953a285544dc13e124ffee1cf261a1fa3fdcc19728424a466ed660a"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "afc78e26f2386e77df2de6bec037c14eb74f063e3551f2ab71f10ff80bc5e986"
+metafile = true
+
+[[files]]
+file = "mods/rpmtw-update-mod.toml"
+hash = "05c9d0f2506878b6174b52d869e88691e66cbe1667d21025f2c00c5b62b2e0ee"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "b6afdd01aff82e263d81b4f3a629a011baa6607b87582088bbdb16ca9cb2149c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "948d49197c769a8516d1521d66fee25c4b519da82e500003846423f7190b15c4"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-fabric.toml"
+hash = "e2aeda2de32e8c0b33e92714af4af1d4fbaa73ba6db8456bee9c86926aef0d0f"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
+metafile = true
+
+[[files]]
+file = "mods/tiefix.toml"
+hash = "85abea40045ab3e338fb352fd2d875c23c66ff2bb615531f3fd8e5288cf062c3"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.toml"
+hash = "f72cbfcc9dd7079ae697512338158d3d98efd4b7ef2dfbcd9ee5f829d3efedb6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.toml"
+hash = "517a15807d761059f9d48b1e1fb8b1e261bf42704deca818fa984051a17f9aed"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Better-Leaves-6.1-1.13+.zip"
+hash = "67e32a94a3ec388cb876c7e21c5b3de4c5df255193150611466b61516d6b8fb9"

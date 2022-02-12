@@ -1,0 +1,13 @@
+name = "Language Reload"
+filename = "language-reload-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3641/52/language-reload-1.2.1.jar"
+hash-format = "murmur2"
+hash = "3819597365"
+
+[update]
+[update.curseforge]
+file-id = 3641052
+project-id = 527334

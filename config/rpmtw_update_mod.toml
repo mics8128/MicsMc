@@ -1,0 +1,12 @@
+crowdin = false
+ReloadPack = false
+notice = false
+isChinese = false
+cosmicChat = false
+cosmicChatButton = false
+isTranslate = false
+contributorButton = false
+Token = ""
+isCheck = false
+isEULA = false
+modBlackList = []

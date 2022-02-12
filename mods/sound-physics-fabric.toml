@@ -1,0 +1,13 @@
+name = "Sound Physics Fabric"
+filename = "soundphysics-0.5.6.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3636/502/soundphysics-0.5.6.jar"
+hash-format = "murmur2"
+hash = "947614007"
+
+[update]
+[update.curseforge]
+file-id = 3636502
+project-id = 501539
