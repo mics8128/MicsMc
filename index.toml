@@ -115,7 +115,12 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.toml"
-hash = "b640cbe358ce5a1da08f774b2632248f6244f88c47d0617be1523d525d99fab4"
+hash = "1f7773e293ee997e5056592c5923c2ac2ef065d2165a261546a680aaa6a307ec"
+metafile = true
+
+[[files]]
+file = "mods/imblockerfabric.toml"
+hash = "3e3dada9877ac8ab9393f76cc65f3a4ea11e0cbcb5ac6151ccf83f2f0dc86030"
 metafile = true
 
 [[files]]

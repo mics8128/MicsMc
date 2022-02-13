@@ -1,0 +1,13 @@
+name = "IMBlockerFabric"
+filename = "imblockerfabric-1.0.17.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3579/646/imblockerfabric-1.0.17.jar"
+hash-format = "murmur2"
+hash = "1401103793"
+
+[update]
+[update.curseforge]
+file-id = 3579646
+project-id = 399225
